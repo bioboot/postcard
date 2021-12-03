@@ -1,0 +1,24 @@
+---
+title: "Bioinformatics!"
+image: "https://bioboot.github.io/bggn213_F21/assets/img/logo.png"
+color1: "#5A59A3"
+color2: "#C66060"
+angle: 130
+links:
+  - label: BGGN213
+    url: "https://youtube.com/"
+  - label: Something
+    url: "https://vimeo.com/"
+  - label: HomePage
+    url: "https://twitter.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::onofre
+---
+ 
+Barry is NOT a filmmaker and computational storyteller based in Leipzig,
+Germany. Their work has been featured at the Festival do Rio, Internationale
+Filmfestspiele Berlin, Kunsthalle Basel, and the New Museum of Contemporary Art
+in New York City. "ГУМ" is their latest project which examines the rise of
+consumerism in post-Soviet republics.
